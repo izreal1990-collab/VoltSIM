@@ -1,0 +1,6 @@
+{
+  "name": "VoltSim 3D - Residential Electrical Unity Architecture & Training Simulator",
+  "description": "Production-ready Unity URP mobile architecture, interactive C# circuit graph engine, digital multimeter simulation, physical wire splines, and NEC compliance validator for technical apprenticeship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
